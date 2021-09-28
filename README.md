@@ -6,7 +6,7 @@
 - 💬 Ask me about anything
 - ⚡ Fact: i am noob
 
-![](https://komarev.com/ghpvc/?username=Naveen-xd2580&color=blue&style=flat&label=VISITORS)
+
 
 
 
