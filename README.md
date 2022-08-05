@@ -10,11 +10,11 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=Naveen-xd2580)
+![](https://github-readme-stats.vercel.app/api?username=Naveen-X)
 
 
 
 
 
 
-![](https://github.com/Naveen-xd2580/Naveen-xd2580/blob/main/README.md)
+![](https://github.com/Naveen-xd2580/Naveen-X/blob/main/README.md)
