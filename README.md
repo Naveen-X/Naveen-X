@@ -1,6 +1,19 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-- 🔭 I’m currently working on Nothing
+``` javascript 
+const Naveen = {
+  pronouns: "he",
+  code: [Python-Intermediate, HTML-Beginner],
+  tools: [Acode, Termux],
+  ContactMe: {
+                        Telegram: "Naveen_xD",
+                        Twitter: "Naveen__xD",
+                        Instagram: "Naveen__xD"
+                      },
+ challenge: "Currently nothing.."
+}
+```
+- 🔭 I’m currently working on nothing 
 - 🌱 I’m currently learning coding
 - 🤔 I’m looking for help with good people
 - 💬 Ask me about anything
@@ -17,4 +30,4 @@
 
 
 
-![](https://github.com/Naveen-xd2580/Naveen-X/blob/main/README.md)
+![](https://github.com/Naveen-X/Naveen-X/blob/main/README.md)
