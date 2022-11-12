@@ -4,7 +4,7 @@
 const Naveen = {
   pronouns: "he",
   code: [Python-Intermediate, HTML-Beginner],
-  tools: [Acode, Termux],
+  tools: [Acode, Termux, Github],
   ContactMe: {
                         Telegram: "Naveen_xD",
                         Twitter: "Naveen__xD",
