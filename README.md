@@ -14,9 +14,9 @@ const Naveen = {
 }
 ```
 
-![](https://github-readme-stats.vercel.app/api?username=Naveen-X)
+![](https://github-readme-stats.vercel.app/api?username=Naveen-X&theme=dark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naveen-X&show_icons=true&locale=en&layout=compact" alt="Naveen-X"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naveen-X&show_icons=true&theme=dark&locale=en&layout=compact" alt="Naveen-X"/></p>
 
 
 
