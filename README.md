@@ -1,4 +1,3 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+I'm+Naveen_xD!;Hope+U+like+my+profile!)
 ``` javascript 
 const Naveen = {
@@ -16,7 +15,10 @@ const Naveen = {
 
 ![](https://github-readme-stats.vercel.app/api?username=Naveen-X&theme=tokyonight)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naveen-X&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Naveen-X"/></p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Naveen-X&show_icons=true&theme=tokyonight&locale=en&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-X&theme=tokyonight&hide_border=false)
 
 
 
