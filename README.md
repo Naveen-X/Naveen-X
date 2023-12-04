@@ -2,8 +2,8 @@
 ``` javascript 
 const Naveen = {
   pronouns: "he",
-  code: [Python-Intermediate, HTML-Beginner],
-  tools: [Acode, Termux, Github],
+  code: [Python-Intermediate, HTML-Beginner, C-Beginner],
+  tools: [VsCode, Acode, Termux, Github],
   ContactMe: {
                         Telegram: "Naveen_xD",
                         Twitter: "Naveen__xD",
